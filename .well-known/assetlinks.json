@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.jaemesonra.plancomidas",
+    "sha256_cert_fingerprints": ["8B:34:BC:61:AA:8A:92:75:72:03:14:23:FF:96:25:D5:E9:42:94:C9:D3:9E:4B:22:B7:77:97:63:70:11:DA:B7"]
+  }
+}]
